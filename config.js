@@ -27,7 +27,7 @@ global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/a4596b87f83998308d6f7.jpg";
+global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/1b142c86951d27961a87e.jpg";"https://telegra.ph/file/6626e3cad3c5021a0e7a3.jpg";"https://telegra.ph/file/b8bdb1a5cb65d2cff3914.jpg";"https://telegra.ph/file/1adaa3646831f0feae968.jpg"
 global.waPresence = process.env.WAPRESENCE || "recording";
 global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
@@ -51,8 +51,8 @@ module.exports = {
   caption: process.env.CAPTION || "𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗧𝗢𝗫𝗫𝗜𝗖 𝗕𝗢𝗬",
   author: process.env.PACK_AUTHER || "ᴛᴏxxɪᴄ ᴍᴅ",
   packname: process.env.PACK_NAME || "𝗥𝗜𝗔𝗦 𝗠𝗗",
-  botname: process.env.BOT_NAME || "𝗥𝗜𝗔𝗦 𝗚𝗥𝗘𝗠𝗢𝗥𝗬",
-  ownername: process.env.OWNER_NAME || "💮𝓐𝓺𝓾𝓪𝓶𝓪𝓻𝓲𝓷𝓮_𝓗𝓸𝓼𝓱𝓲𝓷𝓸✨",
+  botname: process.env.BOT_NAME || "𝒟𝒜ℛ𝒦-𝒪𝒰𝒮ℳ𝒜𝒩ℰ_×᷼×🕸️-MD",
+  ownername: process.env.OWNER_NAME || "𝒟𝒜ℛ𝒦-𝒪𝒰𝒮ℳ𝒜𝒩ℰ_×᷼×🕸️",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
